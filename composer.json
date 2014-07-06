@@ -1,5 +1,5 @@
 {
-    "name": "gearman/gearman-async",
+    "name": "d3trax/gearman-async",
     "require": {
         "php": ">=5.4",
         "react/react": "dev-master",
